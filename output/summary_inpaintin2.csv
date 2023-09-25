@@ -1,0 +1,500 @@
+,message_length,summary
+0,135,No accident described.
+1,32,Colision-hail damage: Back window and brake lights are busted out due to a hail storm.
+2,49,NO ACCIDENT DESCRIBED.
+3,70,"Collision-front-impact: Right front bumper and left rear bumper/quarter panel area. No significant damage, just brush strips."
+4,89,Collision-side-impact: Damage to the entire passenger side of the 2020 Toyota Camry.
+5,94,Collision-front-impact: Damage to BMW five series reported on April 30th. Estimated repair time of four days.
+6,66,NO ACCIDENT DESCRIBED.
+7,124,"Collision-front-impact: The front end of the car is damaged, possibly due to hitting a coyote. The black plastic underneath the car is also damaged."
+8,106,Other: Water damage to engine due to flooding. No accident described.
+9,44,collision-front-impact: significant damage to the front of the car.
+10,23,"Can you please summarize the damage to the car in 20 words or less? Please start with a tag (collision-front-impact:, collision-windshield:, collision-side-impact:, other:). If no information is provided, please indicate ""NO ACCIDENT DESCRIBED""."
+11,97,"Collision-front-impact: Shattered grill, chrome piece, and right light area."
+12,69,Collision-front-impact: Car was hit by a truck on July 8th. No further details provided.
+13,200,"Collision-rear-impact: $27,000 in damages to a 2004 Lamborghini, with a $5,000 initial estimate and a $27,000 supplemental estimate."
+14,60,"collision-front-impact: damage to the front bumper, hood, and headlights."
+15,102,Collision-front-impact: Damage to the front of the car due to a collision with another vehicle.
+16,304,Collision-front-impact: Front bumper smashed in and plastic part coming off.
+17,105,Collision-animal impact: Damage to the body and windshield of a Toyota Camry. No further details provided.
+18,87,Collision-front-impact: Damage to 2009 Honda Fit. No further details provided.
+19,83,Tag: Flood damage. Car engine stopped working after driving through deep water. No accident described.
+20,15,NO ACCIDENT DESCRIBED.
+21,124,"Collision-rear-impact: Rear bumper, trunk, passenger side rear quarter panel, and driver's side rear quarter panel were damaged. Tail lights were also damaged."
+22,113,"Collision-side-impact: Damage to both doors, broken window, and wires pulled from under the carpet. Stereo not working."
+23,40,NO ACCIDENT DESCRIBED.
+24,40,NO ACCIDENT DESCRIBED.
+25,44,"Colision-wind-shield: Back windshield broken, back tail lights broken due to hailstorm. No accident described."
+26,36,NO ACCIDENT DESCRIBED.
+27,121,NO ACCIDENT DESCRIBED.
+28,214,NO ACCIDENT DESCRIBED.
+29,77,Collision-front-impact: No information provided about the damage to the car.
+30,63,Collision-front-impact: Damage to the front of the car. No further details provided.
+31,19,NO ACCIDENT DESCRIBED.
+32,118,Collision-undercarriage damage: radiator and fluids leaking. Cracking on front bumper. No damage to front grille or windshield.
+33,71,"Colision-side-impact: The car was side-swiped while parked, causing damage to the side of the vehicle."
+34,100,"collision-side-impact: The car was hit by a motorcycle while parked, causing damage to the side of the vehicle."
+35,78,Collision-front-impact: Damage to the front of the car due to an accident in April. No further details provided.
+36,93,Collision-front-impact: Land Rover Range Rover was demolished with a baseball bat causing $9000 worth of damage.
+37,72,"Collision-front-impact: Damage to the front bumper, hood, and headlights. No airbags deployed."
+38,60,NO ACCIDENT DESCRIBED.
+39,151,"Collision-side-impact: Damage to the front right side of the 2019 Honda Insight, including the right headlight and airbags deployed."
+40,12,NO ACCIDENT DESCRIBED.
+41,101,NO ACCIDENT DESCRIBED.
+42,82,Colision-wind-shield: The back left windshield was broken due to a burglary. No other damage was reported.
+43,25,Collision-front-impact: The car was hit by someone causing damage to the front of the truck.
+44,36,Colision-wind-shield: Broken window.
+45,20,No accident described.
+46,48,collision-front-impact: No information provided.
+47,103,NO ACCIDENT DESCRIBED.
+48,37,Collision-front-impact: The car was no longer drivable due to damage caused by the accident. No further details were provided.
+49,11,"Collision-front-impact: The front bumper, hood, and headlights were damaged."
+50,46,Collision-front-impact: Damage to the car occurred around February 14th. No further details provided.
+51,208,"Collision-rear-impact: Bumper torn off, license plate damaged."
+52,158,"Collision-side-impact: Driver's side mirror and bumper, passenger side mirror damaged. No injuries reported. Hit and run. Police not involved."
+53,149,NO ACCIDENT DESCRIBED.
+54,53,Collision-front-impact: Damage to the front of the car. No further details provided.
+55,231,"Collision-front-impact: Total damage to the front end, including the grill, fender, and headlights. Windshield is also cracked."
+56,72,NO ACCIDENT DESCRIBED.
+57,35,Tag: Collision-hail-damage. The car has hail damage. No other information provided about the accident.
+58,101,NO ACCIDENT DESCRIBED.
+59,51,NO ACCIDENT DESCRIBED.
+60,190,NO ACCIDENT DESCRIBED.
+61,31,Collision-front-impact: The 2017 Mitsubishi Mirage was deemed a total loss after an incident that occurred in May 1st.
+62,16,NO ACCIDENT DESCRIBED.
+63,17,NO ACCIDENT DESCRIBED.
+64,61,collision-side-impact: A couple of dents on the side of the car. No other information provided about the accident.
+65,128,"Colision-side-impact: Scratches on both passenger side doors, front and back, with an indentation on the front door."
+66,47,Collision-front-impact: The extent of the damage is not specified.
+67,16,NO ACCIDENT DESCRIBED.
+68,74,Collision-front-impact: The corner of the passenger side of the car is messed up with a damaged headlight and something dragging underneath.
+69,68,"Collision-front-impact: Damage to the front center of the car, including the bumper and grill. No airbags deployed."
+70,14,NO ACCIDENT DESCRIBED.
+71,100,"Collision-side-impact: Rear passenger side damage, back of car to lift gate won't open, windows gone."
+72,56,Collision-front-impact: Damage to the front of the car. No further details provided.
+73,36,Collision-front-impact: The car was damaged by a towing company and is not safe to drive. No further details provided.
+74,26,"Collision-front-impact: The car has sustained damage to the front bumper, hood, and headlights. No other accident details were provided."
+75,22,NO ACCIDENT DESCRIBED.
+76,26,Collision-rear-bumper and headlight damage due to shop's negligence.
+77,36,NO ACCIDENT DESCRIBED.
+78,162,"Collision-undercarriage damage: oil leak, no airbag deployment, no other damage reported."
+79,48,Collision-front-impact: Damage to the front of the car due to hitting a deer. No further details provided.
+80,23,Collision-windshield: Passenger driver and passenger front window broken.
+81,64,NO ACCIDENT DESCRIBED.
+82,19,Collision-animal-impact: Vehicle struck by an animal. No further details provided.
+83,12,"I'm sorry, but I don't have any information about the damage to the car. Could you please provide me with more details about the incident?"
+84,127,Collision-side-impact: Both passenger side tires and rims are damaged with scrapes and gouges. No other damage reported.
+85,26,NO ACCIDENT DESCRIBED.
+86,25,collision-front-impact: The caller did not provide any information about the damage to the car.
+87,36,Collision-front-impact: Damage to one tire. No other information provided.
+88,197,"Collision-side-impact: Damage to passenger side front fender, passenger door, and headlight. No other accident described."
+89,30,"Collision-front-impact: Damage to the front bumper, hood, and headlights."
+90,134,"Collision-front-impact: Front grill, front bumper, headlights, and fog lights are destroyed. Hood is dented."
+91,27,"Collision-side-impact: Damage to driver's side door, bed liner, tailgate cover, brake light, and catalytic converter. No accident described."
+92,296,Collision-side-impact: Damage to the driver's side door of the car. No other details provided.
+93,31,NO ACCIDENT DESCRIBED.
+94,96,"colision-front-impact: Shattered windshield, big dent in the front of the hood and front of the car."
+95,17,"Collision-front-impact: Damage to the front bumper, hood, and headlights."
+96,38,No accident described.
+97,37,Collision-side-impact: Damage to the car due to being hit by another car in a parking lot.
+98,118,NO ACCIDENT DESCRIBED.
+99,43,Collision-front-impact: Damage to the front of the Toyota Tundra. No further details provided.
+100,70,"Collision-side-impact: Rear door, rear quarter panel, and rear bumper were damaged in the accident."
+101,191,Collision-front-impact: Minimal cosmetic damage to the truck and significant damage to the front left bumper of the other vehicle.
+102,26,NO ACCIDENT DESCRIBED.
+103,20,No accident described.
+104,38,"Colision-wind-shield: Window broken, no other damage."
+105,129,Fire damage: Total loss.
+106,32,NO ACCIDENT DESCRIBED.
+107,24,"Collision-front-impact: The car has damage to the front bumper, hood, and headlights."
+108,42,Collision-front-impact: The extent of the damage to the car is not specified.
+109,27,No accident described.
+110,28,Collision-side-impact: Beige sedan hit the car hard enough to push it into another lane. No further details provided.
+111,19,"I'm sorry, but based on our conversation, there was no mention of any damage to your car or any accident. Therefore, I cannot provide a summary of the damage to your car in 20 words."
+112,53,"Hail damage: Dents on the roof, hood, and trunk."
+113,18,colision-wind-shield: Damage to the windshield reported. No other information provided about the accident or car damage.
+114,56,colision-wind-shield: The windshield needs to be replaced due to damage.
+115,93,Collision-rear impact: Rear bumper and passenger side pushed in on a 2016 Ford Transit. Vehicle was still drivable.
+116,55,NO ACCIDENT DESCRIBED.
+117,19,NO ACCIDENT DESCRIBED.
+118,47,Collision-front-impact: No information provided.
+119,128,"colision-side-impact: Passenger side mirror and windshield damaged, mirror hanging off. No information on driver side damage."
+120,39,Collision-front-impact: No information provided about the damage to the car.
+121,23,NO ACCIDENT DESCRIBED.
+122,40,No accident described.
+123,3,NO ACCIDENT DESCRIBED.
+124,36,Tag: Collision-rear-bumper. Other vehicle reported damage and is going in for repairs. No damage reported to the caller's vehicle.
+125,43,Collision-rear-impact: No accident described.
+126,30,"Other: Vehicle rolled back into water, water damage."
+127,125,"Collision-rear-impact: Rear bumper cracked, other minor damage. Adaptive cruise control, lane assist, and other electronic features not working."
+128,29,NO ACCIDENT DESCRIBED.
+129,45,Collision-front-impact: Damage to the Ford Fusion in a fall 2022 accident. No further details provided.
+130,41,NO ACCIDENT DESCRIBED.
+131,25,NO ACCIDENT DESCRIBED.
+132,15,NO ACCIDENT DESCRIBED.
+133,31,Collision-side-impact: Vehicle hit while parked on the street resulting in damage to the side of the car.
+134,74,Collision-front-impact: Damage to the front of the car. No further details provided.
+135,29,Collision-front-impact: The extent of the damage to the car is not provided.
+136,119,"Collision-side-impact: driver's side front door, defender, rearview mirror, tire, front bumper, and tire are damaged."
+137,151,Other: Water damage to trunk area and back seat due to vehicle rolling back into water while fishing.
+138,96,Collision-side-impact: Possible total loss. No further details provided about the damage to the car.
+139,42,collision-front-impact: damage to the front of the car. No further details provided.
+140,66,"Collision-front-impact: Three estimates submitted, $5006.88 approved for payment. No further details provided."
+141,61,Other: Stolen airbag and broken window. No accident described.
+142,55,NO ACCIDENT DESCRIBED.
+143,122,"Collision-side-impact: Tire rod and tire damaged, body of the car is fine. No other damage reported."
+144,58,Collision-front-impact: Damage to the front bumper and hood.
+145,127,Collision-side-impact: The passenger side between the two doors was impacted.
+146,90,Collision-side-impact: The passenger side wheel was damaged and the airbag deployed. No other details beyond car damage were provided.
+147,34,NO ACCIDENT DESCRIBED.
+148,43,Other: Foul ball smashed through the passenger side rear window of the car.
+149,148,"Collision-front-impact: Bumper on the ground, one headlight broken, lines chipped, unsure if drivable. No accident description provided."
+150,49,NO ACCIDENT DESCRIBED.
+151,35,NO ACCIDENT DESCRIBED.
+152,133,Collision-side-impact: Driver's side front fender and door are damaged and won't close. No other accident described.
+153,115,Collision-front-impact: Bumper hanging off but still attached. No other damage described.
+154,96,colision-side-impact: Damage to the Honda HR-V from a side impact collision. No further details provided.
+155,119,Collision-rear-bumper: The car's rear bumper was hit while parked and unoccupied. No other damage was described.
+156,118,collision-front-impact: The car was damaged in a front-end collision and is not drivable. No further details were provided.
+157,25,"Collision-front-impact: Damage to the front bumper, hood, and headlights."
+158,65,Collision-front-impact: Damage to the front bumper and hood of the car. No other information provided.
+159,90,Collision-front-impact: Minor damage to left side of bumper due to sudden braking by another vehicle.
+160,268,Collision-rear-bumper: Damage to the rear bumper of the 2016 BMW 4 series. No other damage reported.
+161,37,NO ACCIDENT DESCRIBED.
+162,13,colision-side-impact: One of the windows was broken into and needs to be replaced. No other damage reported.
+163,18,"Sorry, I cannot provide a summary of the damage to the car as there is no information provided about the damage."
+164,214,Collision-rear-impact: Deformation on the quarter panel and top of the vehicle.
+165,39,NO ACCIDENT DESCRIBED.
+166,131,"Collision-rear-impact: Back bumper broken and out of alignment, side bumper also affected. Possible damage to crash bar."
+167,31,NO ACCIDENT DESCRIBED.
+168,27,"I'm sorry, but I don't have any information about the damage to the car. Can you please provide me with more details?"
+169,33,"Collision-front-impact: The car was damaged in an accident at Johnson Volvo Cars in Durham, North Carolina. No further details were provided."
+170,32,"Collision-front-impact: Damage to the front bumper, hood, and headlights."
+171,18,"collision-front-impact: damage to the front bumper, hood, and headlights."
+172,39,NO ACCIDENT DESCRIBED.
+173,8,"I'm sorry, I think there might have been a misunderstanding. I am an AI language model and I don't have any information about any car damage or claims. I am here to assist you with any language-related queries or concerns you may have. Please let me know how I can assist you."
+174,26,"I'm sorry, but you did not provide any information about the car damage. Therefore, I cannot summarize it in 20 words. Please provide me with the necessary information so that I can assist you better."
+175,81,"I'm sorry, but you did not provide any information about the car damage. Therefore, I cannot summarize it in 20 words. Please provide me with the necessary information so that I can assist you better."
+176,27,NO ACCIDENT DESCRIBED.
+177,58,Collision-front-impact: Damage to the front of the Chevy Silverado truck. No further details provided.
+178,29,colision-front-impact: The front bumper and hood of the car are damaged.
+179,125,Collision-rear-impact: Body damage to the rear of the vehicle.
+180,30,"Collision-front-impact: Damage to the truck reported, no further details provided."
+181,11,"I'm sorry, but I don't have access to the details of the claim. Can you please provide me with the information about the damage to the car?"
+182,32,collision-hail-damage: 2019 Ram 1500 has hail damage.
+183,40,Collision-rear-end: Damage to the rear of the car. No further details provided.
+184,63,"Collision-front-impact: Airbags deployed, significant damage to the front of the car."
+185,97,"colision-wind-shield: Damage to the windshield on April 17th, requiring replacement."
+186,256,"Collision-rear-driver-side-tire-damage: All-wheel drive system damaged, tire not moving, scraping on driver's side."
+187,29,Collision-front-impact: Damage to the front of the car. No further details provided.
+188,16,NO ACCIDENT DESCRIBED.
+189,73,"Collision-front-impact: Both headlights damaged, front bumper ripped off, no airbag deployment."
+190,37,other: Damage to the car was not described during the conversation.
+191,13,NO ACCIDENT DESCRIBED.
+192,13,No accident described.
+193,215,"Collision-rear-impact: Damage to the back of the microgram, with some body damage and damage to the phone."
+194,30,"Collision-front-impact: Scratches and damage to the car, needs washing and buffing, additional scratches and marks present."
+195,14,Colision-side-impact: Dent in the underside passenger door and side passenger door cannot be opened.
+196,206,"The tag for the damage to the car is ""collision-front-impact"". The car has a dent in the hood and a broken left front headlight."
+197,19,No accident described.
+198,54,Collision-front-impact: The car was damaged in a collision with an uninsured motorist. The extent of the damage is being evaluated.
+199,80,Collision-front-impact: The car was damaged in a collision with an uninsured motorist. The extent of the damage is being evaluated.
+200,32,"Other: Damage to passenger side door underside, unable to open door, tire popped, likely caused by hitting a rock."
+201,31,NO ACCIDENT DESCRIBED.
+202,92,Collision-front-impact: Damage to the hood and grill of a 2022 Jeep Wrangler caused by hitting a turkey on the Florida Turnpike.
+203,131,NO ACCIDENT DESCRIBED.
+204,97,NO ACCIDENT DESCRIBED.
+205,32,Collision-side-impact: Damage to the side panel of the car. No further details provided.
+206,21,collision-front-impact: Damage to the front of the car. No further details provided.
+207,188,Collision-rear-impact: Rear end and right side bumper and taillights are damaged. Front of the car is completely destroyed from left to right.
+208,15,Other: Hail damage all over the truck.
+209,37,Collision-rear-impact: Damage to the back of the car caused by a boat hitting it.
+210,64,Collision-rear-impact: Rear bumper damage on a Dodge Ram truck. No information on damage to the other vehicle.
+211,46,Sure. Can you please provide me with the damage to the car in 20 words or less?
+212,20,"I'm sorry, but I don't have any information about a car damage or an accident. Could you please provide me with more context or details so that I can assist you better?"
+213,21,NO ACCIDENT DESCRIBED.
+214,102,Other: Debris on the road destroyed the tire and rim of the car. No other damage was described.
+215,19,No accident described.
+216,53,"Collision-rear-impact: Rear bumper hanging off, tire flat, car not drivable, tow required."
+217,127,"Vandalism: smashed passenger side window, dent on front door panel and frame. No accident described."
+218,12,"Collision-front-impact: Significant damage to the front of the car, including the hood, bumper, and headlights."
+219,25,NO ACCIDENT DESCRIBED.
+220,38,"Collision-front-impact: Damage to the front bumper, hood, and headlights."
+221,28,No accident described.
+222,23,NO ACCIDENT DESCRIBED.
+223,24,No accident described.
+224,85,Collision-front-impact: Damage to the A/C compressor and other parts of the car. No further details provided.
+225,41,No accident described.
+226,26,Collision-rear-impact: Damage to the back of the car due to a collision with another vehicle.
+227,397,"Collision-rear-impact: Trunk completely detached, license plate dented, and significant damage to the back of the vehicle."
+228,124,Collision-side-impact: Damage to the left corner panel of a GMC Terrain.
+229,61,Collision-animal-loss: Damage to the car due to an animal loss. No further details provided.
+230,80,Collision-side-impact: The side of the car was hit and the bumper was pulled off and dragged under the car.
+231,85,NO ACCIDENT DESCRIBED.
+232,36,"collision-front-impact: damage to the front bumper, hood, and headlights."
+233,26,Collision-front-impact: The caller did not provide any information about the damage to the car.
+234,76,Collision-front-impact: Damage to the front of the 2012 Mazda. No further details provided.
+235,149,Colision-side-impact: Scratch on the left side of the car.
+236,20,NO ACCIDENT DESCRIBED.
+237,22,Collision-rear-impact: Damage to the rear bumper and trunk.
+238,54,Collision-side-impact: Minor scratch on driver's door of the other driver's Toyota Camry. No damage to the caller's vehicle.
+239,20,Collision-side-impact: Minor scratch on driver's door of the other driver's Toyota Camry. No damage to the caller's vehicle.
+240,53,No accident described.
+241,22,NO ACCIDENT DESCRIBED.
+242,60,NO ACCIDENT DESCRIBED.
+243,249,"Collision-front-impact: Hood, windshield, and roof damaged. No airbags deployed. No injuries reported."
+244,127,colision-wind-shield: Both windshields shattered on a 2021 Jeep and a 2021 Dodge Ram 1500 due to hail damage.
+245,36,colision-side-impact: Damage to the caller's truck caused by a 2021 Toyota Corolla. No information provided about the damage to the Corolla.
+246,33,"Collision-rear-impact: Bumper damage to the other car, no damage to the windshield. No information provided about damage to the caller's car."
+247,99,Colision-side-impact: Scratched bumper and back panel on driver's side. No other accident described.
+248,13,colision-wind-shield: Damage to the windshield of the car.
+249,54,NO ACCIDENT DESCRIBED.
+250,43,"Collision-front-impact: Damage to the front bumper, hood, and headlights."
+251,30,No accident described.
+252,124,NO ACCIDENT DESCRIBED.
+253,160,"Collision-rear-impact: Rear quarter panel, both doors, three out of four wheels, and front fender damaged."
+254,31,"I'm sorry, but I don't have any information about the damage to the car. Could you please provide me with more details?"
+255,150,"Collision-front-impact: Front end, grill, headlights, and back passenger door damaged due to hitting two deer."
+256,68,Other: A dent in the hood was reported by the rental company 24 hours after the car was returned.
+257,116,Collision-front-impact: Damage to the front bumper on the passenger side of the 2021 Ford Explorer. No airbags deployed.
+258,112,"Collision-front-impact: Damage to the front end, passenger side door, tire, and muffler. No information provided on the other vehicle."
+259,20,Collision-front-impact: Damage to the front of the car. No further details provided.
+260,333,"Collision-front-impact: Damage to the front bumper, hood, and headlights."
+261,105,No accident described.
+262,33,Collision-front-impact: The extent of the damage to the car is not described.
+263,165,Collision-rear-bumper damage and hanging on to the light. No other accident described.
+264,13,"I'm sorry, I cannot summarize the damage to the car as I do not have any information about the car or the damage. Can you please provide me with more details about the damage?"
+265,35,Collision-front-impact: Damage to a 2020 Toyota Camry from an accident in June 2021. No further details provided.
+266,64,Collision-front-impact: Damage to the front of the car due to a collision. No further details provided.
+267,22,No accident described.
+268,110,Collision-front-impact: Damage to the front of the vehicle. No further details provided.
+269,81,"Collision-front-impact: Damage to the front bumper, hood, and headlights."
+270,80,Collision-front-impact: Damage to the front passenger side of the Chevy Traverse.
+271,212,"Collision-front-impact: Hood, bumper, grill, headlights, fender, and tow hook damaged. No information on radiator or other parts."
+272,43,"Collision-front-impact: The car is considered totaled with an estimated value of $6,700."
+273,135,Collision-side-impact: Driver's side taillight and bumper damaged. No other accident described.
+274,19,No accident described.
+275,80,Collision-front-impact: Damage to the front of the car. No further details provided.
+276,49,Collision-front-impact: Damage to the front of the car due to a hit and run incident. No further details provided.
+277,62,No information provided.
+278,14,NO ACCIDENT DESCRIBED.
+279,52,Collision-rear-end: The car was hit from behind in a four-vehicle accident while stopped at a red light.
+280,76,Collision-front-impact: Vehicle was not drivable after a hit and run accident. No further details provided.
+281,42,NO ACCIDENT DESCRIBED.
+282,12,NO ACCIDENT DESCRIBED.
+283,19,"Collision-front-impact: The car has significant damage to the front bumper, hood, and headlights."
+284,64,"Collision-front-impact: Airbags deployed, front passenger wheel shoved back, probable frame damage."
+285,16,NO ACCIDENT DESCRIBED.
+286,19,collision-front-impact: No information provided about the damage to the car.
+287,158,Collision-side-impact: Damage to the passenger side of the car from the rear wheel to the front fender.
+288,39,NO ACCIDENT DESCRIBED.
+289,187,Collision-rear-impact: Rear bumper and exhaust damaged.
+290,74,NO ACCIDENT DESCRIBED.
+291,24,No accident described.
+292,103,Collision-front-impact: Scratches on the front bumper of a 2018 Hyundai Elantra. No accident described.
+293,32,No accident described.
+294,176,"Collision-front-impact: Bumper off, dent in the front fender, and damage to the tire area."
+295,186,colision-rear-impact: Rear of the car lifted up after being hit by another vehicle in a residential area.
+296,19,collision-front-impact: No information provided about the damage to the car.
+297,20,"Collision-front-impact: Car deemed total loss by Allstate after accident, Geico claim filed for payout. No specific damage details provided."
+298,24,"Tag: Collision-side-impact. Damage to passenger side, including dent and broken handles. No injuries or other accidents described."
+299,33,NO ACCIDENT DESCRIBED.
+300,155,Collision-front-impact: Bumper and license plate damaged. No other details provided.
+301,21,Collision-front-impact: Significant damage to the front of the vehicle. No further details provided.
+302,34,NO ACCIDENT DESCRIBED.
+303,55,Collision-front-impact: Damage to the back of the car.
+304,59,Collision-front-impact: Fender bender with no further details provided.
+305,48,NO ACCIDENT DESCRIBED.
+306,22,NO ACCIDENT DESCRIBED.
+307,41,NO ACCIDENT DESCRIBED.
+308,20,"I'm sorry, I cannot provide a summary of the damage to the car as I do not have access to that information. Please provide me with more details about the claim and I will do my best to assist you."
+309,45,Collision-front-impact: Damage estimate of $320.50 for a 2016 Charger. No additional damage reported.
+310,51,NO ACCIDENT DESCRIBED.
+311,45,Collision-front-impact: Damage to the front of the black 2014 vehicle. No further details provided.
+312,28,NO ACCIDENT DESCRIBED.
+313,55,"Collision-front-impact: The bumper and frame of the car were bent, indicating a significant impact. No further details were provided."
+314,200,"Collision-front-impact: Airbags deployed, front bumper falling off, engine leaking, dent in hood."
+315,37,"Collision-front-impact: Damage to the front of a 22 Chevy with a brush guard. Endorsement shows a camper shell, which the owner denies."
+316,83,Collision-rear-impact: Minimal damage reported. No further details provided.
+317,35,NO ACCIDENT DESCRIBED.
+318,26,"Other: Car won't start, no accident described."
+319,81,Collision-front-impact: The car has damage to the front end and the wheels on the back are wiggling.
+320,18,Collision-front-impact: Damage to 2006 Chevy 1500 under claim 06608247160 and 1. No further details provided.
+321,55,Collision-rear-impact: Panel lights damaged. No other information provided.
+322,21,NO ACCIDENT DESCRIBED.
+323,28,Collision-front-impact: The car was declared a total loss. No further details about the accident were provided.
+324,65,Collision-side-impact: Damage to the driver's side door and rear quarter panel.
+325,47,Collision-front-impact: The car was damaged in an accident on the fifth. No further details were provided.
+326,19,No accident described.
+327,29,Collision-front-impact: Boat came off and hit the front lower bumper cover causing it to hang.
+328,23,No accident described.
+329,17,"Please provide a summary of the damage to the car in 20 words or less. Start with a tag (collision-front-impact:, collision-windshield:, collision-side-impact:, other:). Indicate NO ACCIDENT DESCRIBED if no information provided."
+330,66,Colision-rear-impact: Serious damage to the back of the car due to a reckless driver causing an accident.
+331,35,collision-front-impact: damage to the front of the car.
+332,22,Collision-front-impact: No information provided beyond the car damage.
+333,46,Collision-front-impact: Missing catalytic converter.
+334,10,"Sorry, I cannot summarize the damage to the car as there is no information provided about the damage."
+335,153,"Collision-rear-impact: severe damage to rear tailgate, rear window, rear quarter panel, and bumper."
+336,22,Collision-front-impact: Damage to the front of the car. No further details provided.
+337,18,NO ACCIDENT DESCRIBED.
+338,18,"I'm sorry, but I don't have any information about the damage to the car. Could you please provide me with more details?"
+339,32,NO ACCIDENT DESCRIBED.
+340,31,"I'm sorry, but I don't have any context or information about the car damage. Can you please provide me with more details so that I can assist you better?"
+341,469,collision-front-impact: The car was totaled and had significant front-end damage.
+342,22,Collision-rear-end: Damage to the rear of a 97 Chevy pickup. No further details provided.
+343,19,No accident described.
+344,88,Collision-front-impact: Damage to the front bumper and hood of the car.
+345,14,NO ACCIDENT DESCRIBED.
+346,47,Collision-side-impact: The car was scraped by another vehicle on May 4th. No further details were provided.
+347,63,Collision-front-impact: Car hit a deer resulting in damage. No further details provided.
+348,27,Collision-front-impact: Damage to the front of the car. No further details provided.
+349,42,NO ACCIDENT DESCRIBED.
+350,78,"collision-front-impact: Damage to the front bumper and undercarriage, and a cracked windshield on a white 2022 Toyota Camry. No police report or injuries reported."
+351,23,NO ACCIDENT DESCRIBED.
+352,41,NO ACCIDENT DESCRIBED.
+353,76,"Collision-front-impact: Damage to the front bumper, hood, and headlights."
+354,42,No accident described.
+355,35,Collision-front-impact: The car was damaged in an accident and is currently in the shop for repairs. No further details provided.
+356,53,"collision-front-impact: damage to the front of the car, no further details provided."
+357,59,Collision-front-impact: Damage to the front of the car. No further details provided.
+358,30,Collision-front-impact: The car has damage to the roof and needs blended painting. It has been in the repair shop for three months.
+359,29,NO ACCIDENT DESCRIBED.
+360,48,NO ACCIDENT DESCRIBED.
+361,210,Collision-side-impact: Vehicle was totaled and had to be towed. Airbags deployed on the passenger side.
+362,115,NO ACCIDENT DESCRIBED.
+363,35,Collision-side-impact: Rear passenger side of the car was hit.
+364,88,"Collision-back-impact: Rear bumper, passenger side tail lights, rear quarter panel, tailgate, and bumper displaced."
+365,13,NO ACCIDENT DESCRIBED.
+366,117,Collision-front-impact: Front end of the car was ripped off in the accident.
+367,40,Collision-front-impact: Car damage due to front impact. No further details provided.
+368,27,"other: Car damage due to aging and crinkling, no collision or comprehensive claim, no accident described."
+369,24,NO ACCIDENT DESCRIBED.
+370,51,Collision-front-impact: No information provided about the damage to the car.
+371,72,Collision-front-impact: No information provided about the damage to the car.
+372,55,Collision-front-impact: No information provided.
+373,46,"Vandalism: Car was broken into, no information provided about the extent of the damage."
+374,78,Collision-side-impact: Driver's side front bumper of a 2011 Nissan Versa was struck by a 2014 Honda Civic.
+375,145,"Collision-front-impact: Damage to the front grill and engine, with red liquid leaking. No airbags deployed."
+376,96,Collision-front-impact: The 2006 Toyota Tacoma sustained significant damage to the front and driver's side of the vehicle.
+377,162,Collision-side-impact: Tire went flat and damage to the underside of the car due to hitting a piece of steel on the road.
+378,19,"Collision-front-impact: The car has damage to the front bumper, hood, and headlights."
+379,12,NO ACCIDENT DESCRIBED.
+380,55,"Other: Damage was discovered on 2015 Kia Optima on February 25th, 2023 at 12:01 PM. No further details provided."
+381,323,"Collision-front-impact: Bumper, headlight cover, and trim are scratched and need repair. No other accident described."
+382,36,Collision-rear-impact: Rear quarter panel of the car was struck causing damage. No other damage reported.
+383,30,No accident described.
+384,34,NO ACCIDENT DESCRIBED.
+385,25,NO ACCIDENT DESCRIBED.
+386,37,NO ACCIDENT DESCRIBED.
+387,26,NO ACCIDENT DESCRIBED.
+388,68,"Collision-side-impact: Damage to the front passenger door, front fender, bumper, and wheel."
+389,92,No accident described.
+390,44,Collision-front-impact: Damage to the front of the car. No further details provided.
+391,19,Collision-rear-impact: The car was hit in the back by another vehicle.
+392,19,NO ACCIDENT DESCRIBED.
+393,67,NO ACCIDENT DESCRIBED.
+394,24,"collision-front-impact: Property damage to a Chevy Malibu, no further details provided."
+395,131,Collision-front-impact: Water leakage from the front of the car. No further details provided.
+396,115,Collision-rear-wheel damage: Rear wheel of the 2012 Mazda six was hit by the front of the other vehicle.
+397,153,Collision-rear-impact: Damage to the rear of the car. No further details provided.
+398,34,"Collision-front-impact: The car has damage to the front bumper, hood, and headlights."
+399,147,"Collision-front-impact: Damage to the front bumper, hood, and headlights."
+400,165,"colision-side-impact: Damage to driver's side tire, wheel, and suspension. Airbag light on. Repairs estimated at $800."
+401,37,"I'm sorry, I cannot summarize the damage to the car as I do not have any information about the car damage. Could you please provide me with more details?"
+402,50,Collision-front-impact: Damage to the front of the 2020 Honda. No further details provided.
+403,29,"Collision-front-impact: Damage to the front bumper, hood, and headlights."
+404,19,Collision-front-impact: Damage to the front bumper and hood of the car. No other details provided.
+405,96,colision-rear-impact: Scratched and damaged rear bumper of a 2022 Toyota Prius. Bumper is coming off.
+406,40,NO ACCIDENT DESCRIBED.
+407,41,"Collision-front-impact: Damage to the front bumper, hood, and headlights."
+408,34,"I'm sorry, but I cannot summarize the damage to the car in 20 words as I do not have any information about the car damage. Please provide me with the necessary details so that I can assist you better."
+409,97,NO ACCIDENT DESCRIBED.
+410,55,"Collision-front-impact: The car was damaged in a hit and run accident, resulting in an uninsured motorist claim."
+411,101,"Collision-rear-impact: Rear bumper, trunk, and quarter panel pushed in. No damage to lights."
+412,13,NO ACCIDENT DESCRIBED.
+413,27,Collision-front-impact: The car was damaged in a front impact collision and required repairs. No further details were provided.
+414,119,NO ACCIDENT DESCRIBED.
+415,86,Collision-windshield: Front windshield on the passenger side was busted and there were footprints on the car.
+416,113,"Other: Trunk damage, significant dent in the middle, not a straight line, resembling a board crashing into it."
+417,120,Collision-rear-impact: Severe damage to the rear bumper of the car. Possible damage to the front bumper as well.
+418,53,collision-front-impact: No information provided about the damage to the car.
+419,44,NO ACCIDENT DESCRIBED.
+420,22,No accident described.
+421,21,No accident described.
+422,68,collision-front-impact: The car was declared a total loss. No further details about the damage were provided.
+423,43,Collision-front-impact: The car was damaged in a front-end collision. No further details were provided.
+424,15,"Sorry, I am an AI language model and I do not have access to previous conversation history. Please provide me with the details of the damage to the car so that I can assist you better."
+425,36,"I'm sorry, I'm not sure what you're referring to. Could you please provide more context or information?"
+426,32,No accident described.
+427,44,Collision-front-impact: The Toyota Tacoma was damaged after hitting a curb. No other accident was described.
+428,25,NO ACCIDENT DESCRIBED.
+429,33,"I'm sorry, I cannot summarize the damage to the car as I do not have that information."
+430,34,NO ACCIDENT DESCRIBED.
+431,24,"I'm sorry, I cannot do that as there is no information provided about the damage to the car."
+432,54,Collision-rear-impact: Damage to the back of the car. No airbags deployed. No other property or cars were involved.
+433,130,Collision-rear-impact: Rear bumper and trunk area damaged. No airbags deployed.
+434,31,"Collision-front-impact: The car has damage to the front bumper, hood, and headlights. No other accident described."
+435,149,"Collision-side-impact: Damage to the rear passenger side of the car, including paint damage, a damaged light, and a damaged backup sensor."
+436,56,NO ACCIDENT DESCRIBED.
+437,93,"Collision-side-impact: Large dent in driver's door, unable to open. No other damage described."
+438,69,Collision-front-impact: Bumper and tire damage on the driver's side of the car.
+439,102,Collision-front-impact: Damage to the front of the car.
+440,22,"Collision-front-impact: Damage to the front bumper, hood, and headlights."
+441,52,collision-rear-end: damage to the rear of the 2007 Ford F150.
+442,156,collision-rear-end: damage to the rear of the 2007 Ford F150.
+443,24,NO ACCIDENT DESCRIBED.
+444,43,"Collision-front-impact: Car has been out of commission for 5 months, dealership reported warning lights on dash after repairs."
+445,39,Hail damage: 2017 Dodge Journey. No accident described.
+446,20,"Collision-front-impact: damage to the front bumper, hood, and headlights."
+447,61,No accident described.
+448,19,Collision-front-impact: The customer's vehicle was hit by one of the company's customers and is currently in the shop.
+449,65,Collision-rear-impact: Damage to the rear bumper and trunk.
+450,14,NO ACCIDENT DESCRIBED.
+451,71,Collision-front-impact: Car is not drivable due to front-end damage. No further details provided.
+452,45,NO ACCIDENT DESCRIBED.
+453,41,NO ACCIDENT DESCRIBED.
+454,30,NO ACCIDENT DESCRIBED.
+455,27,Collision-front-impact: Damage to the front of the car. No further details provided.
+456,38,Collision-front-impact: Damage to the front of the car. No further details provided.
+457,60,No accident described.
+458,28,"collision-front-impact: damage to the front bumper, hood, and headlights."
+459,64,Collision-front-impact: No information provided about the damage to the car.
+460,38,collision-front-impact: The car was towed to a shop and declared a total loss. No further details were provided.
+461,144,Collision-side-impact: Damage to the driver's side doors and passenger side doors. No other details provided.
+462,56,collision-front-impact: Damage to the front of the car. No further details provided.
+463,24,Collision-rear-impact: Damage to the 2020 Sienna Van was caused by a rear-end collision. No further details were provided.
+464,27,"Collision-front-impact: Bumper damage, requiring replacement and painting. No damage behind the bumper has been assessed yet."
+465,27,NO ACCIDENT DESCRIBED.
+466,18,"Collision-front-impact: Significant damage to the front bumper, hood, and headlights."
+467,127,Collision-side-impact: The entire left side of the car was hit.
+468,41,NO ACCIDENT DESCRIBED.
+469,57,Collision-front-impact: Damage to the front of the Equinox. No further details provided.
+470,68,Collision-front-impact: The car was damaged in a front-end collision and was towed to a service center for inspection and repair.
+471,53,"No accident was described, so there is no damage to the car to summarize."
+472,35,colision-wind-shield: A piece of wood flew into the windshield while driving on the highway.
+473,34,collision-front-impact: No information provided about the damage to the car.
+474,32,NO ACCIDENT DESCRIBED.
+475,70,"Collision-front-impact: Damage to the front bumper, hood, and headlights of the car."
+476,82,NO ACCIDENT DESCRIBED.
+477,51,NO ACCIDENT DESCRIBED.
+478,44,NO ACCIDENT DESCRIBED.
+479,16,NO ACCIDENT DESCRIBED.
+480,28,Collision-front-impact: No information provided about the damage to the car.
+481,124,Collision-front-impact: Dent on the right side below the headlight on a 2019 Lexus RX 350.
+482,26,"collision-front-impact: The car sustained significant damage to the front end, including the hood, bumper, and headlights."
+483,45,"I'm sorry, but I cannot summarize the damage to the car as there is no information provided. Please provide me with the necessary details."
+484,24,"Sorry, I cannot provide a summary of the damage to the car as there is no information provided by the customer."
+485,58,"Collision-front-impact: Damage to hood, bumper, grille, and headlights. Windshield also damaged. No other accident described."
+486,19,"I'm sorry, but there is no information provided about the damage to the car."
+487,43,"Collision-front-impact: Damage to the front bumper, hood, and headlights."
+488,27,No accident described.
+489,63,"Collision-rear-impact: Significant damage to the rear of the vehicle, including damage to the sensors."
+490,62,collision-rear-end: Rear end of the GMC pickup truck is pushed back and the vehicle is not drivable.
+491,52,NO ACCIDENT DESCRIBED.
+492,12,"I'm sorry, but I don't have any context or information about a specific car or accident. Can you please provide me with more details so I can assist you better?"
+493,17,"I'm sorry, I cannot summarize the damage to the car as I do not have that information."
+494,68,collision-front-impact: Unspecified damage to the car due to a hit and run incident involving four vehicles. No further details provided.
+495,42,"Collision-front-impact: Damage to the front bumper, hood, and headlights of a 2019 Toyota C-HR. No other details provided."
+496,64,Collision-front-impact: Damage to the front bumper and hood.
+497,40,Collision-front-impact: The caller did not provide any information about the damage to the car.
+498,49,NO ACCIDENT DESCRIBED.

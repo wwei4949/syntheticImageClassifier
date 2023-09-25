@@ -1,0 +1,101 @@
+,message_length,summary
+0,135,No accident described.
+1,32,"Collision-hail damage: Back window and brake lights are broken, and the car is undrivable."
+2,49,NO ACCIDENT DESCRIBED.
+3,70,"Collision-front-impact: Right front bumper and left rear bumper/quarter panel area. No significant damage, just brush strips."
+4,89,Collision-side-impact: Damage to the entire passenger side of the 2020 Toyota Camry.
+5,94,Collision-front-impact: Damage to BMW five series reported on April 30th. Estimated repair time of four days.
+6,66,NO ACCIDENT DESCRIBED.
+7,124,"Collision-front-impact: The front end of the car is damaged, possibly due to hitting a coyote. The black plastic underneath the car is also damaged."
+8,106,Other: Flood damage to engine due to driving through deep water.
+9,44,collision-front-impact: significant damage to the front of the car.
+10,23,"Can you please summarize the damage to the car in 20 words or less? Please start with a tag (collision-front-impact:, collision-windshield:, collision-side-impact:, other:). If no information is provided, please indicate ""NO ACCIDENT DESCRIBED""."
+11,97,"Collision-front-impact: Shattered grill, chrome piece, and right light area."
+12,69,Collision-front-impact: Car was hit by a truck on July 8th. No further details provided.
+13,200,"Collision-rear-impact: $27,000 in damages to a 2004 Lamborghini, with a $5,000 initial estimate and a $27,000 supplemental estimate."
+14,60,collision-front-impact: damage to the front of the 2015 16 Acura RLX. No further details provided.
+15,102,Collision-front-impact: Damage to the front of the car due to a collision with another vehicle.
+16,304,Collision-front-impact: Front bumper smashed in and plastic part coming off.
+17,105,Collision-animal impact: Damage to the body and windshield of a Toyota Camry. No further details provided.
+18,87,Collision-front-impact: Damage to 2009 Honda Fit. No further details provided.
+19,83,Tag: Flood damage. Car engine stopped working after driving through deep water. No collision or impact damage reported.
+20,15,NO ACCIDENT DESCRIBED.
+21,124,"Collision-rear-impact: Rear bumper, trunk, passenger side and driver's side rear quarter panels, and tail lights were damaged."
+22,113,"Collision-side-impact: Damage to both doors, broken window, and wires pulled from under the carpet. Stereo not working."
+23,40,collision-rear-impact: damage to the rear bumper and trunk.
+24,40,NO ACCIDENT DESCRIBED.
+25,44,"Colision-wind-shield: Back windshield broken, back tail lights broken due to hailstorm. No accident described."
+26,36,NO ACCIDENT DESCRIBED.
+27,121,NO ACCIDENT DESCRIBED.
+28,214,NO ACCIDENT DESCRIBED.
+29,77,Collision-front-impact: No information provided about the damage to the car beyond it being involved in an accident.
+30,63,Collision-front-impact: Damage to the front of the car. No further details provided.
+31,19,NO ACCIDENT DESCRIBED.
+32,118,Collision-undercarriage damage: radiator and fluids leaking. Cracking on front bumper. No other accident described.
+33,71,"colision-side-impact: The car was side-swiped while parked, causing damage to the side of the vehicle."
+34,100,"colision-side-impact: The car was hit by a motorcycle while parked, causing damage to the side of the vehicle."
+35,78,NO ACCIDENT DESCRIBED.
+36,93,Collision-front-impact: Land Rover Range Rover was demolished with a baseball bat causing $9000 worth of damage.
+37,72,"Collision-front-impact: Damage to the front bumper, hood, and headlights. No airbags deployed."
+38,60,NO ACCIDENT DESCRIBED.
+39,151,"Collision-side-impact: Damage to the front right side of the 2019 Honda Insight, including the right headlight and airbags deployed."
+40,12,NO ACCIDENT DESCRIBED.
+41,101,Collision-front-impact: Damage to the front of the car. No further details provided.
+42,82,Colision-wind-shield: The back left windshield was broken due to a burglary. No other damage was reported.
+43,25,Collision-front-impact: The car was hit by someone causing damage to the front of the truck.
+44,36,Colision-wind-shield: Broken window.
+45,20,No accident described.
+46,48,Collision-front-impact: No information provided about the damage to the car.
+47,103,NO ACCIDENT DESCRIBED.
+48,37,Collision-front-impact: The car was no longer drivable due to damage caused by the accident. No further details were provided.
+49,11,"Collision-front-impact: The front bumper, hood, and headlights were damaged."
+50,46,Collision-front-impact: Damage to the car occurred around February 14th. No further details provided.
+51,208,"Collision-rear-impact: Bumper torn off, license plate damaged."
+52,158,"Collision-side-impact: Damage to driver's side mirror and bumper, passenger side mirror popped out, no other damage reported."
+53,149,NO ACCIDENT DESCRIBED.
+54,53,Collision-front-impact: Damage to the front of the car. No further details provided.
+55,231,"Collision-front-impact: Total damage to the front end, including the grill, headlights, and windshield. Both front tires are damaged."
+56,72,NO ACCIDENT DESCRIBED.
+57,35,Tag: Collision-hail-damage. The car has hail damage. No other information provided about the accident.
+58,101,NO ACCIDENT DESCRIBED.
+59,51,NO ACCIDENT DESCRIBED.
+60,190,NO ACCIDENT DESCRIBED.
+61,31,Collision-front-impact: The 2017 Mitsubishi Mirage was deemed a total loss. No further details were provided about the damage.
+62,16,NO ACCIDENT DESCRIBED.
+63,17,NO ACCIDENT DESCRIBED.
+64,61,collision-side-impact: A couple of dents on the side of the car. No other information provided about the accident.
+65,128,"Colision-side-impact: Scratches on both passenger side doors, front and back, with an indentation on the front door."
+66,47,Collision-front-impact: The extent of the damage is not specified.
+67,16,NO ACCIDENT DESCRIBED.
+68,74,Collision-front-impact: The corner of the passenger side of the car is messed up and the headlight is damaged. Something is dragging underneath the vehicle.
+69,68,"Collision-front-impact: Damage to the front center of the car, including the bumper and grill. No airbags deployed."
+70,14,NO ACCIDENT DESCRIBED.
+71,100,"Collision-side-impact: Rear passenger side damage, back of car to lift gate won't open, windows gone."
+72,56,Collision-front-impact: Damage to the front of the car. No further details provided.
+73,36,Collision-front-impact: The car was damaged by a towing company and is not safe to drive. No further details provided.
+74,26,collision-front-impact: The car has sustained damage that is more severe than initially estimated. No further details were provided.
+75,22,NO ACCIDENT DESCRIBED.
+76,26,Collision-rear-bumper and headlight damage due to shop's negligence. No accident described.
+77,36,NO ACCIDENT DESCRIBED.
+78,162,"Collision-undercarriage damage: oil leak, no airbag deployment, no other damage reported."
+79,48,Collision-front-impact: Damage to the front of the car due to hitting a deer. No further details provided.
+80,23,Collision-windshield: Passenger front window broken.
+81,64,NO ACCIDENT DESCRIBED.
+82,19,Collision-animal-impact: Vehicle struck by an animal. No further details provided.
+83,12,"I'm sorry, but I don't have any information about the damage to the car. Could you please provide me with more details about the incident?"
+84,127,"Collision-side-impact: Both passenger side tires and rims damaged, with significant scraping on the rims. No other damage reported."
+85,26,NO ACCIDENT DESCRIBED.
+86,25,collision-front-impact: The caller did not provide any information about the damage to the car.
+87,36,No accident described.
+88,197,"Collision-side-impact: Damage to passenger side front fender, passenger door, and headlight. No other accident described."
+89,30,"Collision-front-impact: Damage to the front bumper, hood, and headlights."
+90,134,"Collision-front-impact: Front grill, front bumper, headlights, and fog lights are destroyed. Hood is dented."
+91,27,"Collision-side-impact: Damage to driver's side door, bed liner, tailgate cover, brake light, and catalytic converter. No accident described."
+92,296,Collision-side-impact: Damage to the driver's side door of the 2019 Chevy Traverse. No other details provided.
+93,31,NO ACCIDENT DESCRIBED.
+94,96,"Collision-front-impact: Shattered windshield, big dent in the front of the hood and front of the car."
+95,17,"Collision-front-impact: Damage to the front bumper, hood, and headlights."
+96,38,No accident described.
+97,37,Collision-side-impact: Damage to the car due to being hit by another car in a parking lot.
+98,118,NO ACCIDENT DESCRIBED.
+99,43,Collision-front-impact: Damage to the front of the Toyota Tundra. No further details provided.

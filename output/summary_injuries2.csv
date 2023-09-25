@@ -1,0 +1,501 @@
+,message_length,summary
+0,136,There was no mention of any injuries associated with the car accident.
+1,33,fake-injuries: No injuries were described during the call.
+2,50,fake-injuries: No injuries were described during the conversation.
+3,71,fake-injuries: No injuries reported.
+4,90,"collision - slight injury to the rib tape, no other injuries reported."
+5,95,fake-injuries. No injuries were described during the conversation.
+6,67,fake-injuries: No injuries were reported in the conversation.
+7,125,fake-injuries. No injuries were described in the conversation.
+8,107,fake-injuries: No injuries were described during the call.
+9,45,fake-injuries: No injuries were described during the conversation.
+10,24,"collision - injuries include whiplash, back pain, and bruising. MRI and CT scans were performed. Stitches were required for a cut."
+11,98,fake-injuries: No injuries were described during the call.
+12,70,fake-injuries: No injuries were described during the call.
+13,201,fake-injuries: No injuries were described during the call.
+14,61,[fake-injuries] No injuries were described during the conversation.
+15,103,fake-injuries: No injuries were described during the call.
+16,305,collision: No injuries were reported from the car accident.
+17,106,fake-injuries: No injuries were described during the call.
+18,88,collision - The caller's daughter was involved in a car accident and is currently experiencing medical issues. No specific injuries were mentioned.
+19,84,fake-injuries: No injuries were described during the conversation.
+20,16,fake-injuries: No injuries were described.
+21,125,"collision - Neck injury for the granddaughter, no hospitalization needed. No other injuries were reported."
+22,114,"fake-injuries: No injuries were described, but the caller mentioned a homeless man damaging the car while they were eating dinner."
+23,41,"fake-injuries: No injuries were described, but the caller mentioned a homeless man damaging the car while they were eating dinner."
+24,41,fake-injuries: No injuries were described during the conversation.
+25,45,fake-injuries: No injuries were described during the conversation.
+26,37,fake-injuries: No injuries were described during the call.
+27,122,fake-injuries: No injuries were described in this conversation.
+28,215,No injuries were mentioned during the conversation.
+29,183,other - No injuries reported. The vehicle caught fire and was completely destroyed. Some personal property was also lost in the fire.
+30,78,fake-injuries. No injuries were described during the call.
+31,64,fake-injuries: No injuries were described during the call.
+32,20,(fake-injuries) No injuries were described during the call.
+33,119,"collision - No injuries reported. Vehicle sustained damage to the undercarriage, radiator, and front bumper. No fluid leaking."
+34,72,fake-injuries: No injuries were described during the call.
+35,101,collision. No injuries reported.
+36,79,fake-injuries: No injuries were described during the conversation.
+37,94,fake-injuries: None were described during the conversation.
+38,73,fake-injuries: No injuries were described during the call.
+39,61,fake-injuries: No injuries were described during the call.
+40,152,collision - one passenger has a limp on his leg and the driver has a neck injury. The driver's arm is burnt by the airbags.
+41,13,"(fake-injuries) No injuries were described during the call. However, potential injuries from a car accident could include whiplash, broken bones, concussions, lacerations, and internal bleeding."
+42,102,fake-injuries: No injuries were described during the conversation.
+43,83,collision - Both parties suffered lower back pain and one passenger had tingling in their right arm. They plan to see a doctor.
+44,26,fake-injuries: No injuries were described during the conversation.
+45,37,"fake-injuries: potential whiplash, back pain, and minor cuts and bruises."
+46,21,fake-injuries: No injuries were described.
+47,49,fake-injuries: No injuries were described.
+48,104,fake-injuries. No injuries were described during the conversation.
+49,38,fake-injuries: No injuries were described during the call.
+50,12,"collision - driver sustained whiplash, bruising, and airbag burn; passenger had a CT scan for head injury."
+51,47,fake-injuries: No injuries were described during the call.
+52,209,collision: No injuries were reported.
+53,159,fake-injuries. No injuries were described during the call.
+54,150,There were no injuries reported in any of the accidents discussed during the call.
+55,54,fake-injuries: No injuries were described during the conversation.
+56,232,"collision - injuries include neck, back, left side, hip bones, arms, and back pain. Currently at the hospital."
+57,73,"collision - injuries include neck, back, left side, hip bones, arms, and back pain. Currently at the hospital."
+58,36,fake-injuries: No injuries were described in the conversation.
+59,102,There was no information provided regarding injuries associated with the car accidents.
+60,52,fake-injuries: No injuries were described during the call.
+61,191,fake-injuries: No injuries were described during the call.
+62,32,fake-injuries: No injuries were described during the call.
+63,17,Tag: fake-injuries. No injuries were described during the call.
+64,18,fake-injuries: No injuries were described in the conversation.
+65,62,fake-injuries: No injuries were described during the call.
+66,129,fake-injuries. No injuries were described during the call.
+67,48,fake-injuries: No injuries were described during the call.
+68,17,fake-injuries: No injuries were described during the call.
+69,75,fake-injuries: No injuries were described during the conversation.
+70,69,fake-injuries: No injuries were reported in the car accident.
+71,15,(fake-injuries) No injuries were described.
+72,101,collision - Wife suffered injuries and was taken to Delray Medical Hospital for X-rays due to pain. No further details provided.
+73,57,fake-injuries: No injuries were described during the conversation.
+74,37,fake-injuries: No injuries were described during the conversation.
+75,27,(fake-injuries) No injuries were described during the call.
+76,23,(fake-injuries) No injuries were described during the call.
+77,27,fake-injuries: No injuries were described in the conversation.
+78,37,fake-injuries: No injuries were described during the call.
+79,163,fake-injuries. No injuries were described during the call.
+80,49,fake-injuries: No injuries were described during the call.
+81,24,fake-injuries: No injuries reported.
+82,65,"collision, insured [PII] was injured and received treatment. No further details were provided."
+83,20,fake-injuries: No injuries were described during the call.
+84,13,"collision - driver had MRI for head injury, passenger had stitches for laceration, both had bruising and airbag burns."
+85,128,fake-injuries: No injuries were reported in the car accident.
+86,27,fake-injuries: No injuries were described during the call.
+87,26,fake-injuries: No injuries were described during the conversation.
+88,37,fake-injuries: No injuries were described during the conversation.
+89,198,No injuries reported in the accident.
+90,31,(fake-injuries) No injuries were described during the conversation.
+91,135,collision - no injuries reported.
+92,28,"fake-injuries: No injuries were described. However, potential injuries from the car accident could include whiplash, broken bones, cuts, bruises, and head trauma."
+93,297,fake-injuries: No injuries were described during the call.
+94,32,fake-injuries: No injuries were described during the conversation.
+95,97,fake-injuries: No injuries reported.
+96,18,fake-injuries: No injuries were described during the call.
+97,39,No injuries were reported in the call.
+98,38,fake-injuries: No injuries were described during the conversation.
+99,119,fake-injuries. No injuries were reported in the car accident.
+100,44,This conversation did not mention any injuries related to a car accident.
+101,71,collision. No injuries were mentioned during the call.
+102,192,fake-injuries: No injuries were reported in the car accident.
+103,27,fake-injuries. No injuries were described.
+104,21,(fake-injuries) No injuries were described during the conversation.
+105,39,fake-injuries: No injuries were described.
+106,130,Other. No injuries were described.
+107,33,No injuries were described during the conversation.
+108,25,fake-injuries: No injuries were described during the conversation.
+109,43,fake-injuries: No injuries were described during the conversation.
+110,28,fake-injuries: No injuries were described during the conversation.
+111,29,fake-injuries: No injuries were described during the conversation.
+112,20,fake-injuries: No injuries were described during the call.
+113,54,fake-injuries: No injuries were described during the call.
+114,19,(fake-injuries) Potential injuries were not described during the conversation.
+115,57,fake-injuries: No injuries were described during the conversation.
+116,94,fake-injuries: No injuries were described during the conversation.
+117,56,fake-injuries: No injuries were described during the conversation.
+118,20,fake-injuries: No injuries were described during the conversation.
+119,48,fake-injuries: No injuries were described during the conversation.
+120,129,fake-injuries: No injuries were described during the call.
+121,40,(fake-injuries) No injuries were described during the conversation.
+122,24,(fake-injuries) No injuries were described during the conversation.
+123,41,fake-injuries. No injuries were described during the conversation.
+124,4,"fake-injuries: Potential injuries from a car accident may include whiplash, broken bones, head trauma, lacerations, contusions, and internal bleeding."
+125,37,(fake-injuries) No injuries were reported during the call.
+126,44,fake-injuries: No injuries were described during the call.
+127,31,fake-injuries: No injuries were described.
+128,126,"collision, no injuries reported."
+129,30,fake-injuries: No injuries were described during the conversation.
+130,46,fake-injuries: The caller did not provide any details about injuries sustained in the car accident.
+131,42,No injuries were mentioned during the conversation.
+132,26,fake-injuries: Potential injuries from the car accident were not described.
+133,16,(fake-injuries) No injuries were described during the conversation.
+134,32,There were no injuries mentioned in the conversation.
+135,75,collision - No injuries were mentioned during the call.
+136,30,collision - No injuries were mentioned during the call.
+137,120,collision - no injuries reported.
+138,152,fake-injuries. No injuries were described in the conversation.
+139,97,collision - The driver has a laceration on her right arm but refused to go to the hospital. No other injuries reported.
+140,43,fake-injuries: No injuries were described during the conversation.
+141,67,fake-injuries: No injuries were described during the call.
+142,62,fake-injuries: No injuries were described during the call.
+143,56,fake-injuries: No injuries were described during the call.
+144,123,collision - No injuries reported. Damage to the tire and ball joint. No damage to the Jersey wall.
+145,59,fake-injuries: No injuries were described during the conversation.
+146,128,No injuries were reported in the car accident.
+147,91,fake-injuries: No injuries were described during the call.
+148,35,fake-injuries: No injuries were described during the call.
+149,44,fake-injuries: No injuries were described in the conversation.
+150,149,fake-injuries. No injuries were described during the call.
+151,50,fake-injuries: No injuries were described during the call.
+152,36,There was no mention of any injuries during the call.
+153,134,fake-injuries. No injuries were described during the call.
+154,116,fake-injuries: No injuries were described during the call.
+155,97,(fake-injuries) No injuries were described during the call.
+156,120,fake-injuries. No injuries were described during the call.
+157,119,collision - no injuries were described.
+158,26,fake-injuries: No injuries were described during the call.
+159,66,fake-injuries: No injuries were described during the call.
+160,91,fake-injuries. No injuries were described during the call.
+161,269,No injuries were mentioned during the conversation.
+162,38,There were no injuries mentioned during the call.
+163,14,"fake-injuries: No injuries were described. However, potential injuries from the car accident could include whiplash, broken bones, cuts, bruises, and head trauma."
+164,19,"I'm sorry, but based on the conversation we had, there was no mention of any injuries or details about the car accident. Therefore, I cannot provide a summary of the injuries associated with the accident."
+165,215,fake-injuries: No injuries were described during the conversation.
+166,40,fake-injuries: No injuries were described in the conversation.
+167,132,"collision - Lower back pain reported, possible whiplash injury. No other injuries mentioned."
+168,32,fake-injuries: No injuries were described during the call.
+169,28,fake-injuries: No injuries were described during the call.
+170,34,fake-injuries: No injuries were described during the call.
+171,33,fake-injuries: No injuries were described.
+172,19,fake-injuries: No injuries were described during the call.
+173,40,fake-injuries: No injuries were described during the call.
+174,9,fake-injuries: No injuries were described.
+175,27,"I'm sorry, but based on the conversation we had, there was no mention of any car accident or injuries. Is there anything else I can assist you with?"
+176,82,fake-injuries: No injuries were described during the conversation.
+177,28,fake-injuries: No injuries were described during the call.
+178,59,fake-injuries: No injuries were described during the call.
+179,30,"fake-injuries: potential injuries could include whiplash, broken bones, cuts, bruises, and head trauma. No injuries were described during the conversation."
+180,126,fake-injuries. No injuries were described during the conversation.
+181,31,fake-injuries: No injuries were described during the conversation.
+182,12,"collision - The driver suffered a concussion, whiplash, and bruising. The passenger had a broken arm, stitches, and scarring."
+183,33,fake-injuries: No injuries were described during the conversation.
+184,41,fake-injuries: No injuries were described during the conversation.
+185,64,fake-injuries: No injuries were described during the conversation.
+186,98,fake-injuries: No injuries were described during the conversation.
+187,257,collision: No injuries were mentioned during the conversation.
+188,30,collision: No injuries were mentioned during the conversation.
+189,17,"fake-injuries: potential whiplash, back pain, and minor cuts and bruises."
+190,74,collision - No injuries reported at the time of the interview. The driver complained of neck pain.
+191,38,fake-injuries: No injuries were described as the reported incident was suspected to be a fraud.
+192,14,fake-injuries: No injuries were described during the call.
+193,14,fake-injuries: No injuries were described during the conversation.
+194,216,collision: The caller reported back pain and was in the hospital. No other injuries were mentioned.
+195,31,fake-injuries: No injuries were described.
+196,15,collision - No injuries were reported.
+197,207,There were no injuries reported in the car accident.
+198,20,Tag: fake-injuries. No injuries were described during the call.
+199,55,fake-injuries: No injuries were described during the call.
+200,81,collision - No injuries reported.
+201,33,fake-injuries: No injuries were reported.
+202,32,fake-injuries: No injuries were described during the conversation.
+203,93,fake-injuries: No injuries reported.
+204,132,"fake-injuries. No actual injuries were reported, but the woman on the scooter complained about her leg after falling."
+205,98,fake-injuries: No injuries were described during the conversation.
+206,33,fake-injuries: No injuries were described during the call.
+207,22,fake-injuries: No injuries were described during the call.
+208,189,other - No injuries were described during the conversation.
+209,16,fake-injuries: No injuries were described during the call.
+210,38,fake-injuries: No injuries were described during the call.
+211,65,fake-injuries: No injuries were described during the conversation.
+212,47,fake-injuries: No injuries were described during the conversation.
+213,21,"fake-injuries: Potential injuries from a car accident could include whiplash, broken bones, head trauma, internal bleeding, and lacerations."
+214,22,fake-injuries: No injuries were described during the conversation.
+215,103,fake-injuries. No injuries were described during the conversation.
+216,20,fake-injuries: No injuries were described during the call.
+217,54,fake-injuries: No injuries were described during the call.
+218,128,fake-injuries. No injuries were described during the call.
+219,13,fake-injuries: potential injuries from the car accident were not described.
+220,26,(fake-injuries) No injuries were described in the conversation.
+221,39,fake-injuries: No injuries were described during the conversation.
+222,29,fake-injuries: No injuries were described during the conversation.
+223,24,fake-injuries: No injuries were described during the conversation.
+224,25,collision - no injuries were mentioned during the conversation.
+225,86,fake-injuries. No injuries were described during the conversation.
+226,42,"I apologize, but I was not able to gather any information about injuries from our conversation."
+227,27,"collision, no injuries mentioned."
+228,398,collision - no injuries were mentioned during the conversation.
+229,125,fake-injuries. No injuries were described during the conversation.
+230,62,fake-injuries: No injuries were described during the conversation.
+231,81,fake-injuries: No injuries were reported.
+232,86,fake-injuries. No injuries were described during the call.
+233,37,fake-injuries. No injuries were described during the conversation.
+234,27,Tag: fake-injuries. No injuries were described during the call.
+235,77,fake-injuries: No injuries were reported during the call.
+236,150,Other. No injuries reported from the car accident.
+237,21,fake-injuries: No injuries were described during the conversation.
+238,23,fake-injuries: No injuries were described.
+239,55,fake-injuries: No injuries were reported in the car accident.
+240,21,fake-injuries: No injuries were reported in the car accident.
+241,54,fake-injuries: No injuries were described during the call.
+242,23,fake-injuries: No injuries were described.
+243,61,fake-injuries: No injuries were described in the conversation.
+244,250,"collision - driver and passenger cut up badly from the windshield, no airbags deployed, no mention of other injuries."
+245,128,fake-injuries: No injuries were described during the call.
+246,37,fake-injuries: No injuries were described during the call.
+247,34,No injuries were described.
+248,100,fake-injuries: No injuries were described during the call.
+249,14,fake-injuries: No injuries were described.
+250,55,"Sorry, based on the conversation, no injuries were mentioned or discussed."
+251,44,fake-injuries: No injuries were described during the conversation.
+252,31,fake-injuries. No injuries were described during the call.
+253,125,No injuries were described during the call. (fake-injuries)
+254,161,fake-injuries. No injuries were described during the call.
+255,32,"I'm sorry, but I cannot provide a summary of the details of the injuries associated with the car accident as there was no information provided about any injuries."
+256,151,(fake-injuries) No injuries were described during the call.
+257,69,fake-injuries: No injuries were described during the conversation.
+258,117,fake-injuries: No injuries were reported in the car accident.
+259,113,collision - No injuries were described during the call.
+260,21,fake-injuries: No injuries were described during the call.
+261,334,fake-injuries: No injuries were described during the conversation.
+262,106,fake-injuries. No injuries were described during the conversation.
+263,34,fake-injuries: No injuries were described during the call.
+264,166,fake-injuries. No injuries were described during the call.
+265,14,fake-injuries: The caller did not mention any injuries.
+266,36,fake-injuries: No injuries were described during the call.
+267,65,"I'm sorry, but based on the conversation, there was no mention of any injuries or medical conditions related to a car accident."
+268,23,fake-injuries: No injuries were described during the conversation.
+269,111,fake-injuries: No injuries were described during the call.
+270,82,fake-injuries: No injuries were described during the call.
+271,81,"collision - No injuries reported, only minor scratches."
+272,213,"collision - No injuries reported, only minor scratches."
+273,44,fake-injuries: No injuries were described during the call.
+274,136,fake-injuries. No injuries were described during the call.
+275,20,"fake-injuries: None were described. However, potential injuries from a car accident could include whiplash, broken bones, head trauma, and internal bleeding."
+276,81,fake-injuries: No injuries were described during the call.
+277,50,fake-injuries: No injuries were described during the call.
+278,63,fake-injuries: No injuries were described during the call.
+279,15,fake-injuries: No injuries were described.
+280,53,fake-injuries: No injuries were described during the conversation.
+281,77,fake-injuries: No injuries were described during the call.
+282,43,fake-injuries: No injuries were described during the call.
+283,13,fake-injuries: No injuries were described.
+284,20,fake-injuries: potential injuries from the car accident were not described.
+285,65,fake-injuries: No injuries were described during the conversation.
+286,17,fake-injuries: No injuries were described during the call.
+287,20,Tag: fake-injuries. No injuries were described during the call.
+288,159,Other. No injuries reported.
+289,40,fake-injuries: No injuries were described during the conversation.
+290,188,collision - Driver had previous injuries from a major car accident. Went to the hospital for back pain and soreness. Passengers' injuries unknown.
+291,75,"I'm sorry, but I couldn't find any information related to injuries or car accidents in our conversation."
+292,25,fake-injuries: No injuries were described during the call.
+293,104,fake-injuries: No injuries were described during the call.
+294,33,fake-injuries: No injuries were described during the call.
+295,177,Other. No injuries were described.
+296,187,No injuries were reported in the car accident.
+297,20,fake-injuries: No injuries were described during the call.
+298,21,fake-injuries: No injuries were described during the call.
+299,25,Tag: fake-injuries. No injuries were described during the call.
+300,34,fake-injuries: No injuries were described during the call.
+301,156,Other. No injuries were described.
+302,22,(fake-injuries) No injuries were described during the conversation.
+303,35,fake-injuries: No injuries were described during the conversation.
+304,56,fake-injuries: No injuries were described during the call.
+305,60,fake-injuries: No injuries were described during the call.
+306,49,fake-injuries: No injuries were described during the call.
+307,23,fake-injuries: No injuries were described during the call.
+308,42,fake-injuries: No injuries were described during the call.
+309,21,"I'm sorry, but I don't have any information about the injuries associated with the car accident. Could you please provide me with more details?"
+310,46,fake-injuries: No injuries were described during the call.
+311,52,fake-injuries: No injuries were described during the conversation.
+312,46,fake-injuries: No injuries were described during the conversation.
+313,29,fake-injuries: No injuries were described during the conversation.
+314,56,fake-injuries: No injuries were described during the call.
+315,201,fake-injuries: No injuries were described during the call.
+316,38,This conversation did not mention any injuries or details related to injuries from a car accident.
+317,84,fake-injuries: No injuries were described during the call.
+318,36,fake-injuries: No injuries were described during the conversation.
+319,27,fake-injuries: No injuries were described during the conversation.
+320,82,fake-injuries: No injuries were described during the call.
+321,19,fake-injuries: No injuries were described during the conversation.
+322,56,No injuries were described.
+323,22,fake-injuries: No injuries were described during the call.
+324,29,fake-injuries: No injuries were described during the call.
+325,66,fake-injuries: No injuries were described during the call.
+326,48,(fake-injuries) No injuries were described during the call.
+327,20,"fake-injuries: potential whiplash, concussion, and bruising. No actual injuries were described during the call."
+328,30,Other. No injuries were mentioned during the conversation.
+329,24,fake-injuries: No injuries were described during the call.
+330,18,collision - The caller did not mention any injuries associated with the car accident.
+331,67,fake-injuries: No injuries were described during the conversation.
+332,36,fake-injuries: No injuries were described during the conversation.
+333,23,collision - no injuries were mentioned in the conversation.
+334,47,fake-injuries: No injuries were described during the call.
+335,11,(fake-injuries) No injuries were reported in the car accident.
+336,154,(fake-injuries) No injuries were reported in the car accident.
+337,23,fake-injuries: No injuries were described during the call.
+338,19,fake-injuries: No injuries were described during the call.
+339,19,fake-injuries: No injuries were described during the call.
+340,33,fake-injuries: No injuries were described during the conversation.
+341,32,"I'm sorry, but I don't have any information about injuries or a car accident. The conversation seemed to be unrelated to that topic."
+342,470,fake-injuries: No injuries were described during the call.
+343,23,fake-injuries: No injuries were described during the conversation.
+344,20,"I'm sorry, but I cannot provide a summary of the injuries associated with the car accident as there were no details provided."
+345,89,fake-injuries. No injuries were described during the interview.
+346,15,fake-injuries: Potential injuries from the car accident were not described.
+347,48,fake-injuries: Potential injuries from the car accident were not described.
+348,64,fake-injuries: No injuries were described during the call.
+349,28,collision - No information was provided about injuries associated with the car accident.
+350,43,fake-injuries. No injuries were reported or mentioned during the call.
+351,79,fake-injuries: No injuries were described during the call.
+352,24,fake-injuries: No injuries were described during the call.
+353,42,fake-injuries: No injuries were described during the call.
+354,77,fake-injuries: No injuries were described during the conversation.
+355,43,fake-injuries: No injuries were described during the call.
+356,36,fake-injuries. No injuries were described during the call.
+357,54,fake-injuries. No injuries were described during the call.
+358,60,fake-injuries: No injuries were described during the call.
+359,31,fake-injuries: No injuries were described during the call.
+360,30,fake-injuries: No injuries were described during the conversation.
+361,49,(fake-injuries) No injuries were described during the call.
+362,211,"collision - fractured left elbow, soreness in body, airbag deployed on passenger side. No other injuries reported."
+363,116,"collision - Motorcycle rider was hit by a car and suffered injuries to their jacket, helmet, and bruises. No serious injuries reported."
+364,36,"collision - Both parties had injuries. The passenger went to the ER, and the driver had lower back pain the following day."
+365,89,fake-injuries: No injuries were reported as the accident involved a single vehicle collision with a tree in the driveway.
+366,14,"(fake-injuries) No injuries were described during the call. However, potential injuries from a car accident could include whiplash, broken bones, cuts, bruises, and head trauma."
+367,118,collision. Other party went to hospital with arm pain. No other injuries reported.
+368,41,fake-injuries: No injuries were described during the conversation.
+369,28,fake-injuries: No injuries were described during the conversation.
+370,25,fake-injuries: No injuries were described during the call.
+371,52,fake-injuries. No injuries were described during the conversation.
+372,73,fake-injuries. No injuries were described during the call.
+373,56,fake-injuries: No injuries were described during the conversation.
+374,47,(fake-injuries) No injuries were described during the conversation.
+375,79,fake-injuries. No injuries were described during the call.
+376,146,"collision - back pain reported, no medical treatment sought yet."
+377,97,"[colision] No injuries reported. The car sustained significant damage to the front and rear ends, and the airbags may have deployed."
+378,163,Other. No injuries were described during the conversation.
+379,20,(fake-injuries) No injuries were described during the call.
+380,13,fake-injuries: No injuries were described.
+381,56,fake-injuries: No injuries were described during the call.
+382,324,fake-injuries: No injuries were described during the call.
+383,37,fake-injuries: No injuries reported.
+384,31,fake-injuries: No injuries were described during the call.
+385,35,fake-injuries. No injuries were described during the conversation.
+386,26,fake-injuries: No injuries were described during the conversation.
+387,38,fake-injuries: No injuries were described during the conversation.
+388,27,No injuries were described during the conversation.
+389,69,"collision, no injuries reported."
+390,93,fake-injuries: No injuries were described during the conversation.
+391,45,fake-injuries: No injuries were described during the call.
+392,20,fake-injuries: No injuries were described during the conversation.
+393,20,fake-injuries: potential injuries from the car accident were not described.
+394,68,"fake-injuries: No injuries were described, so I cannot provide a summary of the injuries associated with the car accident."
+395,25,fake-injuries: No injuries were described during the call.
+396,132,Other. No injuries were described.
+397,116,collision - no injuries were described.
+398,154,collision - no injuries were described.
+399,35,fake-injuries: No injuries were described during the call.
+400,148,fake-injuries. No injuries were described during the call.
+401,166,Other. No injuries were described.
+402,38,fake-injuries: No injuries were described in the conversation.
+403,51,fake-injuries: No injuries were described during the conversation.
+404,30,fake-injuries: No injuries were described during the call.
+405,20,fake-injuries: No injuries were described during the conversation.
+406,97,"collision - no injuries reported, only property damage to both vehicles."
+407,41,fake-injuries: No injuries were described during the call.
+408,42,collision. No injuries were mentioned during the conversation.
+409,35,"I apologize, but I was not able to understand the conversation between us. Could you please provide me with the details of the injuries associated with the car accident so that I can summarize them for you?"
+410,98,fake-injuries. No injuries were described during the conversation.
+411,56,fake-injuries: No injuries were described during the conversation.
+412,102,fake-injuries: No injuries were described during the call.
+413,14,"I'm sorry, but I cannot provide a summary as there is no information provided about the car accident."
+414,28,fake-injuries: No injuries were described during the call.
+415,120,collision - no injuries reported.
+416,87,fake-injuries: No injuries were described during the call.
+417,114,fake-injuries: No injuries were described during the call.
+418,121,other - No injuries were described in the conversation.
+419,54,fake-injuries: No injuries were described during the call.
+420,45,fake-injuries: No injuries were described during the conversation.
+421,23,"fake-injuries: No injuries were described during the call. However, potential injuries from a car accident could include whiplash, broken bones, concussions, cuts, and bruises."
+422,22,"fake-injuries: No injuries were described. However, potential injuries from the car accident could include whiplash, broken bones, cuts, bruises, and head trauma."
+423,69,fake-injuries: No injuries were described during the conversation.
+424,44,"collision - daughter experiencing headaches, no treatment received yet. Potential for further injuries."
+425,16,fake-injuries: No injuries were described during the call.
+426,37,"I apologize, but I am unable to provide a summary of the injuries associated with the car accident as there were no details provided."
+427,33,fake-injuries: No injuries were described during the conversation.
+428,45,fake-injuries: No injuries were described in the conversation.
+429,26,fake-injuries: No injuries were described during the conversation.
+430,34,fake-injuries: No injuries were described during the conversation.
+431,35,fake-injuries: No injuries were described during the conversation.
+432,25,"I'm sorry, but I didn't hear any details about injuries associated with a car accident. Can you please provide me with more information?"
+433,55,fake-injuries: No injuries reported.
+434,131,"collision. No injuries reported, only vehicle damages."
+435,32,(fake-injuries) No injuries were described during the call.
+436,150,fake-injuries. No injuries were described during the call.
+437,57,fake-injuries. No injuries were described during the conversation.
+438,94,"collision - No injuries reported. Driver's side door won't open, airbags status unknown. Large dent on the driver's door."
+439,70,fake-injuries: No injuries were reported in the car accident.
+440,103,fake-injuries. No injuries were described during the conversation.
+441,23,fake-injuries: No injuries were described during the conversation.
+442,53,"collision - Geico's insured reported an injury and sought treatment, but no further details were provided."
+443,157,collision. The caller's client was rear-ended and had injuries. No specific details about the injuries were provided.
+444,25,fake-injuries: No injuries were described during the call.
+445,44,fake-injuries: No injuries were described during the call.
+446,40,(fake-injuries) No injuries were described during the call.
+447,21,fake-injuries: No injuries were described during the call.
+448,62,fake-injuries: No injuries were described during the call.
+449,20,fake-injuries: No injuries were described.
+450,66,collision. No injuries reported.
+451,15,(fake-injuries) No injuries were described during the call.
+452,72,collision - no injuries were mentioned during the conversation.
+453,46,fake-injuries: No injuries were described during the call.
+454,42,fake-injuries: No injuries were described during the call.
+455,31,fake-injuries: No injuries were described during the call.
+456,28,"fake-injuries: No injuries were described during the call. However, potential injuries from a car accident could include whiplash, broken bones, concussions, cuts, and bruises."
+457,39,(fake-injuries) No injuries were described during the conversation.
+458,61,fake-injuries: No injuries were described.
+459,29,fake-injuries: No injuries were described during the call.
+460,65,fake-injuries: No injuries were described during the call.
+461,39,fake-injuries: No injuries were described during the conversation.
+462,145,Other. No injuries reported. Only minor damages to the doors of both vehicles. No airbag deployment.
+463,57,"collision - neck and arm pain, went to ER, taking muscle relaxers, potential wage loss, pending insurance coverage."
+464,25,fake-injuries: No injuries were described during the conversation.
+465,28,fake-injuries: No injuries were described during the call.
+466,28,fake-injuries: No injuries were described during the call.
+467,19,"collision - driver suffered from whiplash, concussion, and bruising. Passenger had a broken arm and required stitches."
+468,128,fake-injuries. No injuries were described during the call.
+469,42,fake-injuries: No injuries were described during the call.
+470,58,fake-injuries: No injuries were described during the call.
+471,69,fake-injuries: No injuries were described during the call.
+472,54,fake-injuries: No injuries were described during the call.
+473,36,(fake-injuries) No injuries were described during the call.
+474,35,"collision - Neck and back pain reported, no hospital visit, treating with a chiropractor."
+475,33,fake-injuries: No injuries were described during the call.
+476,71,fake-injuries: No injuries were described during the call.
+477,83,collision - No injuries were reported.
+478,52,(fake-injuries) No injuries were described during the conversation.
+479,45,fake-injuries: No injuries were described during the call.
+480,17,(fake-injuries) No injuries were described during the call.
+481,29,fake-injuries: No injuries were described during the conversation.
+482,125,fake-injuries. No injuries were described during the call.
+483,27,"fake-injuries: head injury, memory loss, and unspecified pain."
+484,46,"I'm sorry, but I was not able to extract any information related to injuries from our conversation."
+485,25,"I'm sorry, but based on the conversation provided, there was no mention of any injuries or accidents."
+486,59,fake-injuries: No injuries were described during the conversation.
+487,20,"I'm sorry, I cannot provide a summary of the injuries associated with the car accident as there was no information provided regarding any injuries."
+488,44,fake-injuries: No injuries were described.
+489,28,There were no details provided about injuries associated with the car accident.
+490,64,fake-injuries. No injuries were described during the call.
+491,63,fake-injuries: No injuries were described during the call.
+492,53,fake-injuries: No injuries were described during the conversation.
+493,13,"I'm sorry, but I don't have any information about a car accident or injuries. Could you please provide me with more context or information so I can assist you better?"
+494,18,fake-injuries: No injuries were described during the conversation.
+495,69,"collision - unspecified injuries claimed by the driver, no further details provided."
+496,43,"collision - unspecified injuries claimed by the driver, no further details provided."
+497,65,fake-injuries: No injuries were described during the conversation.
+498,41,fake-injuries: No injuries were described during the call.
+499,50,fake-injuries: No injuries were described during the call.
